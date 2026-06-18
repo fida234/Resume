@@ -1,7 +1,9 @@
 SKILLS
 Programming Languages
 • Python
-• JavaScript (Basic)
+• sql
+• HTML5
+• CSS3
 
 Artificial Intelligence & Generative AI
 • Large Language Models (LLMs)
@@ -13,17 +15,7 @@ Artificial Intelligence & Generative AI
 • Prompt Engineering
 • AI Workflow Automation
 
-APIs & Integrations
-• OpenWeather API
-• Grok API
-• REST APIs
-• Yahoo Finance Data Integration
-
-Frontend Development
-• HTML5
-• CSS3
-• Bootstrap
-• Responsive Web Design
+• APIs & Integrations
 
 Tools & Platforms
 • Git & GitHub
@@ -32,15 +24,15 @@ Tools & Platforms
 • AI-Assisted Development
 
 PROJECTS
-1)AI Mock Interview Chatbot | Python, LangChain, Grok API, LLM
+1)AI Mock Interview Chatbot | Python, LangChain, Groq API, LLM,streamlit
 
 • Developed an AI-powered mock interview assistant capable of conducting interactive interview sessions.
-• Integrated Grok LLM through API for generating dynamic interview questions and evaluating responses.
+• Integrated Groq LLM through API for generating dynamic interview questions and evaluating responses.
 • Implemented LangChain framework to manage conversation flow and contextual interactions.
 • Designed a user-friendly chatbot workflow to simulate real-world interview experiences.
 • Enhanced candidate preparation through AI-generated feedback and question-answer analysis.
 
-Key Skills: LLMs, LangChain, Prompt Engineering, Python, API Integration, Conversational AI
+Key Skills:STREAMLIT, LLMs, LangChain, Prompt Engineering, Python, API Integration, Conversational AI,
 
 2)MCP Weather Intelligence System | Python, MCP, CrewAI, OpenWeather API
 
@@ -52,7 +44,7 @@ Key Skills: LLMs, LangChain, Prompt Engineering, Python, API Integration, Conver
 
 Key Skills: MCP, CrewAI, API Integration, Python, AI Agents, Automation
 
-3)Multi-Agent Stock Analysis Platform | Python, CrewAI, Grok LLM, Yahoo Finance
+3)Multi-Agent Stock Analysis Platform | Python, CrewAI, Groq LLM, Yahoo Finance
 
 • Developed a multi-agent AI system for stock market analysis and investment recommendations.
 • Created specialized AI agents for stock data analysis and decision-making workflows.
