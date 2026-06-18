@@ -34,10 +34,10 @@ PROJECTS
 
 Key Skills:STREAMLIT, LLMs, LangChain, Prompt Engineering, Python, API Integration, Conversational AI,
 
-2)MCP Weather Intelligence System | Python, MCP, CrewAI, OpenWeather API
+2)MCP Weather Intelligence System | Python, MCP, CrewAI, OpenWeatherMAP API
 
 • Built an MCP-based weather application capable of retrieving real-time weather information for multiple locations.
-• Integrated OpenWeather API to fetch accurate weather data.
+• Integrated OpenWeatherMAP API to fetch accurate weather data.
 • Developed AI-enabled workflow using CrewAI and MCP connectors for tool orchestration.
 • Implemented intelligent query handling for location-based weather analysis.
 • Designed modular architecture to support scalable AI tool integration.
@@ -49,7 +49,7 @@ Key Skills: MCP, CrewAI, API Integration, Python, AI Agents, Automation
 • Developed a multi-agent AI system for stock market analysis and investment recommendations.
 • Created specialized AI agents for stock data analysis and decision-making workflows.
 • Integrated Yahoo Finance data for real-time stock information retrieval.
-• Utilized Grok LLM to analyze market trends, stock performance, and financial indicators.
+• Utilized Groq LLM to analyze market trends, stock performance, and financial indicators.
 • Generated AI-based buy/sell recommendations using collaborative agent architecture.
 
 Key Skills: Multi-Agent Systems, CrewAI, LLMs, Financial Data Analysis, Python, AI Decision Systems
